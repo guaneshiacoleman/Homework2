@@ -4,12 +4,14 @@
   <h1>I am Enough</h1>
 </head>
 <body>
-    <h1>The Journey to Self-Love</h1>
+  <header id="main-header">	
+	<h1>The Journey to Self-Love</h1>
     <p>Being an Artist helped heal me mentally and emotionally</p>
     <img src="image-dragonfly.jpg" alt="A teal blue and green dragonfly hovering over a pond">
     <main>
     <p2>My first art works were created in High School </p2>
- <h2>The most intricate part about being an artist is allowing your mind to wonder</h2>
+<header id="main-header">
+		<h2>The most intricate part about being an artist is allowing your mind to wonder</h2>
   <p> trying to be the best is not as good as always doing your best</p>
 <h3>Being an Artist has its rewards</h3>
 	<ul>
